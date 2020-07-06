@@ -4,14 +4,10 @@ A simple java program to play the all time best game, Tic Tac Toe, with your bud
 
 **Play with computer mode and GUI coming soon! Keep a look at the repo or sign up for my mailing list at https://www.prodominik.me**
 
----
-
 ## Prerequisites
 
 1. A machine that can run Java programs
 2. Java JDK [(available here)](https://aws.amazon.com/corretto/).
-
----
 
 ## How to Run?
 1. Download or clone the repository.
@@ -21,8 +17,6 @@ A simple java program to play the all time best game, Tic Tac Toe, with your bud
 	$ *javac \*.java*
 
 	$ *java Play*
-
----
 
 ## How to Play?
 Upon running, the game will ask for 2 player names. Enter the names and the game will show you an empty board. Let the fun begin.
