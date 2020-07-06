@@ -8,6 +8,7 @@ A simple java program to play the all time best game, Tic Tac Toe, with your bud
 
 1. A machine that can run Java programs
 2. Java JDK [(available here)](https://aws.amazon.com/corretto/).
+3. The most important one: some brains to win the game.
 
 ## How to Run?
 1. Download or clone the repository.
