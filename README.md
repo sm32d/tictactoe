@@ -23,3 +23,6 @@ Upon running, the game will ask for 2 player names. Enter the names and the game
 To mark on the board, type in the row number followed by the column number with a space and hit enter. The game will mark the board. Keep entering the rows and columns until someone wins or the board is full.
 
 Hope you enjoy playing this evergreen!
+
+## License
+This project is licensed under the GNU Affero General Public License v3.0. A copy of the same is available [here](https://github.com/sm32d/passey/blob/master/LICENSE.md).
