@@ -9,7 +9,7 @@ Version 1.0
 ## Prerequisites
 
 - A machine that can run Java programs
-- Minimum Java JDK 8 [(available here)](https://aws.amazon.com/corretto/).
+- Minimum Java 8 [(available here)](https://aws.amazon.com/corretto/).
 - The most important one: some brains to win the game.
 
 ## How to Run?
